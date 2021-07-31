@@ -36,11 +36,11 @@ Starting at 2nd level, you can use your sword dance to duplicate the power of ma
 
 As an action while you are wielding a sword, you can begin a song and dance with your sword and cast any cleric spell of 6th level or lower, expending a spell slot of the appropriate level. The spellsong must last for the spell's normal cast time, after which the spell takes effect.
 
-During the spellsong, you can move and take only the Dash, Disengage, Dodge, or Attack (using your sword) actions, or an action unique to breaking a specific effect (such as breaking from a grapple). The only reaction you can take during your spellsong is your Sword Dancer feature.
+During the spellsong, if it lasts longer than 1 round, you can move and take only the Dash, Disengage, Dodge, or Attack (using your sword) actions, or an action unique to ending a specific effect (such as breaking from a grapple). The only reaction you can take during your spellsong is your Sword Dancer feature.
 
 Instead of its normal components, the spell requires verbal, somatic, and material (your sword). However, if the spell normally requires material components of higher value than 100 gp, you must have them in sight and within 5 feet of you when you begin the spellsong, and they are consumed if the spell normally would require it.
 
-If the spell requires concentration, you must maintain a simpler version of your spellsong for the duration, which does not restrict your ability to take actions or cast spells. You do not have to make checks to maintain concentration on this spell due to taking damage, but you lose concentration on the spell if you cannot maintain the spellsong (for example, if you enter the area of a silence spell or are restrained or disarmed).
+If the spell requires concentration, you must maintain a simpler version of your spellsong for the duration, which does not restrict your ability to take actions or cast spells. You do not have to make checks to maintain concentration on this spell due to taking damage, but you lose concentration on the spell if you cannot maintain the spellsong (for example, if you enter the area of a *silence* spell or are restrained or disarmed).
 
 ## Enchanted Sword
 At 6th level, you gain the ability to enchant swords. While you are outdoors at night, you can perform a special dance with your sword. The dance lasts for 1 hour and deals 4 damage to you as you draw blood from each limb during it. Once finished, the sword becomes magical for 3 months and glows with silvery dim light within 5 feet. At 14th level, you can also create a singing sword (see below) the same way. However, you can only enchant one singing sword at a time. If you enchant another, the previous one loses its magic.
