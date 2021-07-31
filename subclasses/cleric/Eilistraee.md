@@ -1,7 +1,7 @@
 # Cleric of Eilistraee (Sword Dancer Domain)
 Eilistraee is the only drow goddess of good alignment, and she does her best to single-handedly balance out the evil of the entire rest of the drow pantheon. Most of her followers are drow who have turned away from the evils of Lolth, but she accepts followers of all races who seek to bring good into the world. Traditionally, only women would be granted spells by Eilistraee, but that restriction is no longer in place in the modern Forgotten Realms. She is a goddess of beauty, dance, freedom, hunting, moonlight, and most importantly for this subclass, song and swordwork. Her clerics, called sword dancers, are expected to be expert sword fighters. Moreoever, they also perform songs and dances with their swords in the middle of combat in order to channel their spells.
 
-Aside from that, all of her followers are expected to go above and beyond to prove to the world that drow are capable of good, and that there is a place for drow who wish to escape from the oppression of Lolth. Protect those in harm's way, give food to the hungry, and spread joy where ever you can. While peace and acceptance are the goals, should you come across an evil that will not be pacified, destroy it swiftly to prevent it from hurting anyone else.
+Aside from that, all of her followers are expected to go above and beyond to prove to the world that drow are capable of good, and that there is a place for drow who wish to escape from the oppression of Lolth. Protect those in harm's way, give food to the hungry, and spread joy where ever you can. Do not mistake this kindness for pacifism however, as sword dancers are expected to repay violence with swift violence, thus quickly removing dangers and threats, so that the fewest might be hurt.
 
 [Read more about Eilistraee's followers.](https://forgottenrealms.fandom.com/wiki/Church_of_Eilistraee)
 
@@ -14,12 +14,17 @@ Cleric Level | Spells
 4th | aura of purity, locate creature
 5th | dispel evil and good, steel wind strike
 
-## Bonus Proficiencies
-When you choose Eilistraee as your deity at 1st level, you gain proficiency with all swords (greatsword, longsword, shortsword, rapier, scimitar, etc.) and in the Performance skill. If you are using the Starting Equipment rule, use these options instead of the normal options for a cleric:
+## Alternate Start
+If this is your starting class, your saving throw proficiencies are Dexterity and Charisma instead of Wisdom and Charisma.
+
+If you are using the Starting Equipment rule, use these options instead of the normal options for a cleric:
 * (a) a two-handed sword, (b) a one-handed sword and a shield, or (c) two one-handed swords
 * (a) scale mail, (b) chain shirt or (c) leather armor
 * (a) a priest's pack or (b) an explorer's pack
 * A holy symbol and another one-handed sword
+
+## Bonus Proficiencies
+When you choose Eilistraee as your deity at 1st level, you gain proficiency with all swords (greatsword, longsword, shortsword, rapier, scimitar, etc.) and in the Performance skill.
 
 ## Sword Dancer
 While you are wielding a sword, you can use Charisma instead of Wisdom for all cleric features. You can also use that sword as a focus for your cleric spells.
