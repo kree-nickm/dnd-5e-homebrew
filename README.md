@@ -6,7 +6,7 @@ A collection of various homebrew that I've made, used, or plan to used. No, it's
 * [Ranger Beast Master](subclasses/ranger/BeastMaster.md) - Everyone agrees this subclass is the worst in the entire game of 5E D&D. Many DMs have tried to buff it. Here's my attempt.
 
 ## Races
-* [Pixie](races/Pixie.md) - An untested set of stats for a character I was going to play, with DM approval. It's like the pixie from the Monster Manual, but for a PC.
+* [Pixie](races/Pixie.md) - Completely changes the way spellcasting works, requiring you to throw pixie dust on everything.
 * [Sentient Magic Item](races/SentientMagicItem.md) - If you're looking for a major secret that you can keep from the party, try this on for size. I'm not even a person, I'm the item that the person is holding!
 
 ## Misc
