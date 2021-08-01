@@ -13,7 +13,7 @@
 
 **Pixie Spells.** You know the *druidcraft* cantrip. The following spells are added to your class’ spell list for you: *confusion*, *dancing lights*, *detect evil and good*, *detect thoughts*, *dispel magic*, *entangle*, *fly*, *phantasmal force*, *polymorph*, *sleep*.
 
-You use your pixie dust as the material component for any spell you cast, unless the material component is consumed and has a gold piece cost, or is highly specific (such as the *plane shift* spell).
+All spells you cast have altered range, area-of-effect, targeting requirements, and components. You use your pixie dust as the material component for any spell you cast, unless the material component has a gold piece cost greater than 10 times your character level. In order to affect any creature other than yourself with a spell, you must sprinkle your pixie dust on them, which you can throw within 5 feet of you and falls up to 10 feet downward. You must also do this for spells that affect multiple creatures, even if the spell normally affects a radius. Every creature you want to affect must be sprinkled with pixie dust, but you can sprinkle multiple creatures with the same action, and you can move normally during the casting of the spell to get within reach.
 
 **Invisibility.** As an action, you can magically turn invisible until you attack, cast a spell, or your concentration ends (as if concentrating on a spell). Any equipment you are wearing or carrying is invisible with you.
 
