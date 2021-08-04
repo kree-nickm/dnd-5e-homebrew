@@ -27,7 +27,7 @@ If you are using the Starting Equipment rule, use these options instead of the n
 When you choose Eilistraee as your deity at 1st level, you gain proficiency with all swords (greatsword, longsword, shortsword, rapier, scimitar, etc.) and in the Performance skill.
 
 ## Sword Dancer
-While you are wielding a sword, you can use Charisma instead of Wisdom for all cleric features. You can also use that sword as a focus for your cleric spells.
+You can use Charisma instead of Wisdom for all cleric features, and you can use any sword as a focus for your cleric spells.
 
 When you would be hit with an attack while you are wielding a sword, you can use a reaction to make a Charisma (Performance) check and use that result in place of your AC against this attack. You can use this reaction a number of times equal to your Charisma modifier (a minimum of once), and regain all expended uses when you finish a long rest.
 
