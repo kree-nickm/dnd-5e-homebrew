@@ -44,23 +44,11 @@ Instead of its normal components, the spell requires verbal, somatic, and materi
 
 If the spell requires concentration, you must maintain a simpler version of your spellsong for the duration, which does not restrict your ability to take actions or cast spells. You do not have to make checks to maintain concentration on this spell due to taking damage, but you lose concentration on the spell if you cannot maintain the spellsong (for example, if you enter the area of a *silence* spell or are restrained or disarmed).
 
-## Battle Hardened
+## Expert Sword Dancer
 Starting at 6th level, you can use a bonus action to make a melee weapon attack with a sword.
 
-Also starting at 6th level, you can add your proficiency bonus to Contitution saving throws that you make to maintain concentration. If you are already proficient in Constitution saving throws, your proficiency bonus is doubled for those saving throws.
-
 ## Divine Strike
-Starting at 8th level, your proficiency bonus is doubled for any Charisma (Performance) check using a sword.
-
-## Sword Enchanter
-At 14th level, you gain the ability to enchant swords. While you are outdoors at night, you can perform a special dance with a sword. The dance lasts for 1 hour and deals 4 damage to you as you draw blood from each limb during it. Once finished, the sword becomes magical for 3 months and glows with silvery dim light within 5 feet. Alternatively, you can transform the sword into a singing sword (see below). You can only enchant one singing sword at a time. If you enchant another, the previous one loses its magic.
-
-> ### Singing Sword
-> *Weapon (any sword), requires attunement by a follower of Eilistraee*
-> 
-> This magical sword literally sings when drawn, radiates with silvery fire, and gives off dim light within 10 feet. This sword deals radiant damage instead of its normal damage type.
-> 
-> While wielding this sword, you are immune to being charmed and frightened. Additionally, if you are subject to any effect that requires you to hear the source, you can choose not to be affected.
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ## Master Sword Dancer
 At 17th level, your Spellsong can ignore spell material components that cost up to 1000 gp. Additionally, you now regain all expended uses of your Sword Dancer feature on a short rest.
