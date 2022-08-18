@@ -44,8 +44,8 @@ Instead of its normal components, the spell requires verbal, somatic, and materi
 
 If the spell requires concentration, you must maintain a simpler version of your spellsong for the duration, which does not restrict your ability to take actions or cast spells. You do not have to make checks to maintain concentration on this spell due to taking damage, but you lose concentration on the spell if you cannot maintain the spellsong (for example, if you enter the area of a *silence* spell or are restrained or disarmed).
 
-## Expert Sword Dancer
-Starting at 6th level, you can use a bonus action to make a melee weapon attack with a sword.
+## Extra Attack
+Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ## Divine Strike
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
