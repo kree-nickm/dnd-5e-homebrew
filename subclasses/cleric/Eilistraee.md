@@ -10,8 +10,8 @@ Cleric Level | Spells
 ------------ | ------
 1st | detect poison and disease, magic missile
 2nd | enhance ability, moonbeam
-3rd | create food and water, daylight
-4th | aura of purity, locate creature
+3rd | blinding smite, create food and water
+4th | freedom of movement, locate creature
 5th | dispel evil and good, steel wind strike
 
 ## Alternate Start
