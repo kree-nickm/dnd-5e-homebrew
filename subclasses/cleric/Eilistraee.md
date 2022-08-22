@@ -52,3 +52,5 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ## Master Sword Dancer
 At 17th level, your Spellsong can ignore spell material components that cost up to 1000 gp. Additionally, your Sword Dancer reaction can be used even if you did not use a bonus action to begin the defensive sword dance on your turn, in which case the sword dance is activated as part of that reaction. Lastly, there is no longer a limit to how many times you can use your Sword Dancer reaction.
+
+Also at 17th level, if you are a drow, your connection with Eilistraee and her desire for drow to return to the surface have finally cured you of the curse that afflicts all drow. You no longer have the Sunlight Sensitivity feature.
