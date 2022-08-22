@@ -15,7 +15,7 @@ Cleric Level | Spells
 5th | dispel evil and good, steel wind strike
 
 ## Alternate Start
-If this is your starting class, your saving throw proficiencies are Dexterity and Charisma instead of Wisdom and Charisma.
+If this is your starting class, your saving throw proficiencies are Dexterity and Charisma instead of Wisdom and Charisma. Because Eilistraee is a performance-based deity, your spellcasting ability is Charisma, not Wisdom.
 
 If you are using the Starting Equipment rule, use these options instead of the normal options for a cleric:
 * (a) a two-handed sword or (b) two one-handed swords
@@ -27,11 +27,11 @@ If you are using the Starting Equipment rule, use these options instead of the n
 When you choose Eilistraee as your deity at 1st level, you gain proficiency with all swords (greatsword, longsword, shortsword, rapier, scimitar, etc.) and in the Performance skill.
 
 ## Sword Dancer
-You can use Charisma instead of Wisdom for all cleric features, and you can use any sword as a focus for your cleric spells.
+You can use any sword as a focus for your cleric spells.
 
-While you are not wearing heavy armor and not wielding a shield, you can use Dexterity instead of Strength for the attack and damage rolls of your melee weapon attacks that use a sword without the heavy property.
+You can use Dexterity instead of Strength for the attack and damage rolls of your melee weapon attacks that use a sword without the heavy property.
 
-When you would be hit with an attack while you are wielding a sword, not wearing heaving armor, and not wielding a shield, you can use a reaction to make a Charisma (Performance) check and use that result in place of your AC against this attack. You can use this reaction a number of times equal to your proficiency bonus, and regain all expended uses when you finish a long rest.
+As a bonus action on your turn, if you are not wielding a shield and not wearing medium or heavy armor, you can begin a defensive sword dance. Until the start of your next turn, you gain a +2 bonus to your armor class. The sword dance ends early if you stop wielding a sword. Additonally, if you would be hit by an attack or fail a Dexterity saving throw while this sword dance persists, you can use a reaction to give yourself a bonus to your AC against that attack or to that Dexterity saving throw equal to your proficiency bonus. You can use this reaction a number of times equal to your Charisma modifier, and you regain expended uses when you finish a short rest.
 
 ## Channel Divinity: Spellsong
 Starting at 2nd level, you can use your sword dance to duplicate the power of many spells.
@@ -51,4 +51,4 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ## Master Sword Dancer
-At 17th level, your Spellsong can ignore spell material components that cost up to 1000 gp. Additionally, you now regain all expended uses of your Sword Dancer feature on a short rest.
+At 17th level, your Spellsong can ignore spell material components that cost up to 1000 gp. Additionally, your Sword Dancer reaction can be used even if you did not use a bonus action to begin the defensive sword dance on your turn, in which case the sword dance is activated as part of that reaction. Lastly, there is no longer a limit to how many times you can use your Sword Dancer reaction.
