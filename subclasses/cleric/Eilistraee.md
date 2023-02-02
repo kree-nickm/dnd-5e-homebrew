@@ -9,10 +9,10 @@ Aside from that, all of her followers are expected to go above and beyond to pro
 Cleric Level | Spells
 ------------ | ------
 1st | detect poison and disease, magic missile
-2nd | enhance ability, moonbeam
-3rd | blinding smite, create food and water
-4th | freedom of movement, locate creature
-5th | dispel evil and good, steel wind strike
+3rd | enhance ability, moonbeam
+5th | blinding smite, create food and water
+7th | freedom of movement, locate creature
+9th | dispel evil and good, steel wind strike
 
 ## Alternate Start
 If this is your starting class, your saving throw proficiencies are Dexterity and Charisma instead of Wisdom and Charisma. Because Eilistraee is a performance-based deity, your spellcasting ability is Charisma, not Wisdom.
